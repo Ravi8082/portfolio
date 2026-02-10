@@ -80,7 +80,7 @@ export function Navigation() {
 
         <div className="flex items-center gap-3">
           <a
-            href="/RaviPal-Resume.pdf"
+            href="/images/RaviPal-Resume.pdf"
             download="RaviPal-Resume.pdf"
             className="hidden items-center gap-1.5 rounded-full border border-primary/30 bg-primary/5 px-4 py-2 text-sm font-semibold text-primary transition-all hover:border-primary hover:bg-primary/10 md:inline-flex"
           >
@@ -128,7 +128,7 @@ export function Navigation() {
             ))}
             <li className="mt-2">
               <a
-                href="/RaviPal-Resume.pdf"
+                href="/images/RaviPal-Resume.pdf"
                 download="RaviPal-Resume.pdf"
                 className="flex items-center justify-center gap-2 rounded-lg border border-primary/30 bg-primary/5 px-5 py-2.5 text-sm font-semibold text-primary"
                 onClick={() => setMobileOpen(false)}

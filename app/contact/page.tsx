@@ -225,7 +225,7 @@ export default function ContactPage() {
                         setFormData({ ...formData, name: e.target.value })
                       }
                       className="w-full rounded-xl border border-border bg-secondary px-4 py-3 text-sm text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
-                      placeholder="John Doe"
+                      placeholder="Ravi Pal"
                     />
                   </div>
                   <div>
@@ -244,7 +244,7 @@ export default function ContactPage() {
                         setFormData({ ...formData, email: e.target.value })
                       }
                       className="w-full rounded-xl border border-border bg-secondary px-4 py-3 text-sm text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
-                      placeholder="john@example.com"
+                      placeholder="palravi1093@gmail.com"
                     />
                   </div>
                 </div>

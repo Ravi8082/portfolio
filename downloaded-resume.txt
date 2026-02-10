@@ -1,0 +1,72 @@
+RAVI PAL
+Mobile: 8052696360 | Email: palravi1093@gmail.com | GitHub | LinkedIn
+
+--------------------------------------------------------------------------------
+
+PROFESSIONAL SUMMARY
+
+BCA student with practical experience in Core/Advanced Java, JDBC, JavaFX, Servlets, 
+and Spring Boot, focused on building reliable and scalable applications with modern 
+Java tools and frameworks.
+
+--------------------------------------------------------------------------------
+
+TECHNICAL SKILLS
+
+Languages:          Core Java, Advanced Java, C/C++
+Web Technologies:   HTML, CSS, JSP, Servlets, JavaFX, React (Basic)
+Frameworks:         Spring Boot, Spring Boot MVC
+Databases:          MySQL, JDBC, Hibernate
+Tools:              Maven, Apache Tomcat
+IDE:                Eclipse, IntelliJ IDEA
+
+--------------------------------------------------------------------------------
+
+SOFT SKILLS
+
+• Problem-solving    • Communication    • Adaptability    • Time management
+
+--------------------------------------------------------------------------------
+
+INTERNSHIP EXPERIENCE
+
+Java Development Intern – Netparam Technologies Pvt. Ltd. (Certificate)
+May 2024 – August 2024
+
+• Worked on Core/Advanced Java for backend development
+• Used JDBC for MySQL CRUD operations
+• Developed GUI-based desktop applications using JavaFX
+• Handled HTTP requests using Servlets
+• Assisted in Spring Boot projects by creating REST APIs
+• Implemented MVC architecture
+
+--------------------------------------------------------------------------------
+
+PROJECTS
+
+OFFICE DASHBOARD
+• Built a full-stack Office Dashboard using Spring Boot, React, JWT, RBAC, and MySQL
+• Implemented employee/admin roles with OTP-based login
+• Developed secure CRUD operations via JDBC/Hibernate
+• Created reusable UI components
+
+HOTEL MANAGEMENT SYSTEM
+• Built a hotel management system using Spring Boot, React, JWT, RBAC, and MySQL
+• Implemented real-time room booking/cancellation
+• Developed service management features
+• Created secure customer access system
+• Built admin panel for managing rooms, users, bookings, and hotel operations
+
+BLOOD DONATION SYSTEM
+• Developed a Blood Donation System using Spring Boot, Spring Security (Email OTP), React, and MySQL
+• Implemented role-based access for User/Admin/Hospital
+• Enabled donor registration and blood search functionality
+• Developed hospital request management system
+• Created admin verification processes
+
+DIGITAL BANKING SYSTEM
+• Built secure digital banking web application with user/admin roles
+• Implemented UPI payments, loan management, and ATM requests
+• Developed ledger-based transactions system
+• Designed responsive frontend interface
+• Automated EMI processing functionality

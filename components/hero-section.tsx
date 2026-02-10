@@ -158,7 +158,7 @@ export function HeroSection() {
               <ArrowDown size={16} />
             </a>
             <a
-              href="/RaviPal-Resume.pdf"
+              href="/images/RaviPal-Resume.pdf"
               download="RaviPal-Resume.pdf"
               className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/5 px-7 py-3 text-sm font-semibold text-primary transition-all hover:border-primary hover:bg-primary/10"
             >
